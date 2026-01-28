@@ -1,1 +1,0 @@
-# apalikasi-pengingat-jadwal-kuliah-tugas-uas
